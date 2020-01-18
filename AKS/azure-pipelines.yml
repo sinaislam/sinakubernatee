@@ -34,5 +34,3 @@ steps:
   inputs:
     pathtoPublish: '$(Build.ArtifactStagingDirectory)'
     artifactsName: 'drop'
- .ArtifactStagingDirectory)'
-    artifactsName: 'drop'
